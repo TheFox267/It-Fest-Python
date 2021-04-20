@@ -2,12 +2,11 @@
 
 
 
-
 <!-- PROJECT LOGO -->
-  <h3 align="center">It-Fest|Python для начинающих</h3>
-
-
-
+  <h3 align="center">It-Fest|Python для начинающих. Первое задание. Текстовый квест.</h3>
+  
+  
+  
 ### Что нужно для запуска
 
 ОС:
@@ -15,6 +14,7 @@
 
 Версия python:
 * [Python~=3.8](https://www.python.org/)
+
 
 
 ## Запуск
